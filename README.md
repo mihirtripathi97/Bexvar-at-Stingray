@@ -9,6 +9,5 @@ To see origin of these files with original commit log click on the file name:
 2) [test_bexvar.py](https://github.com/StingraySoftware/stingray/blob/main/stingray/tests/test_bexvar.py)
 3) [lightcurve.py](https://github.com/StingraySoftware/stingray/blob/main/stingray/lightcurve.py)
 4) [test_lightcurve.py](https://github.com/StingraySoftware/stingray/blob/main/stingray/tests/test_lightcurve.py)
-5) [Bexvar tutorial.ipynb](https://github.com/StingraySoftware/notebooks/blob/c0d986c7fd63f43a9b20b39e2f7deb16be6f37aa/Bexvar/Bexvar%20tutorial.ipynb)
 
 Project Report: [Bayesian Excess Variance (Bexvar) in Stingray](https://mihirtripathi97.github.io/GSoC-22/)
